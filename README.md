@@ -1,4 +1,4 @@
-Privacy Policy
+<b>Privacy Policy</b>
 
 Developer built the Burp and Fart Sounds Prank app as an Ad Supported app. This
 app is provided by at no cost and is intended for use as is:
