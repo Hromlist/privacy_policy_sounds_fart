@@ -21,6 +21,8 @@ Links to privacy policies of third party service providers used in the app:
 - Firebase Analytics https://firebase.google.com/policies/analytics
 
 - MyTarget https://legal.my.com/us/mytarget/privacy
+  
+- Yandex https://yandex.com/legal/confidential
 
 <b>2. Sharing Your Information</b>
 
