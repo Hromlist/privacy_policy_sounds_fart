@@ -41,6 +41,34 @@ https://firebase.google.com/support/privacy
 
 https://yandex.com/legal/confidential
 
+<b>AdMob</b>
+
+https://support.google.com/admob/answer/6128543
+
+<b>AppLovin Corporation</b>
+
+https://www.applovin.com/privacy
+
+<b>IronSource Mobile Ltd</b>
+
+https://www.is.com/privacy-policy
+
+<b>Mintegral</b>
+
+https://www.mintegral.com/en/privacy
+
+<b>Bigo Ads</b>
+
+https://www.adsbigo.com/privacy.html
+
+<b>Liftoff</b>
+
+https://liftoff.io/privacy-policy/#h.1f64gwp2q1iz
+
+<b>VK реклама</b>
+
+https://id.vk.com/privacy
+
 The Service Provider may disclose User Provided and Automatically Collected Information:
 - as required by law, such as to comply with a subpoena, or similar legal process;
 - when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
@@ -77,7 +105,7 @@ Any other mode of distribution is not official and thus, is not maintained by th
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2024-12-10
+This privacy policy is effective as of 2025-03-11
 
 <b>10. Your Consent</b>
 
